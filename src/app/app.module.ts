@@ -5,7 +5,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { RedComponent } from './red/red.component';
 import { BlueComponent } from './blue/blue.component';
-import { AppRoutingModule } from './app-routing-module.ts';
+import { AppRoutingModule } from './app-routing-module';
 
 
 @NgModule({
